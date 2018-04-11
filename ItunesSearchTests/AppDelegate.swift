@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  ItunesSearchTests
+//  ITunesSearchTests
 //
-//  Created by Ildar Zalyalov on 05.04.2018.
-//  Copyright © 2018 iOSLab. All rights reserved.
+//  Created by BLVCK on 08/04/2018.
+//  Copyright © 2018 BLVCK. All rights reserved.
 //
 
 import UIKit
